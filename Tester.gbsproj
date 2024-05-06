@@ -2807,7 +2807,7 @@
             "height": 18,
             "type": "LOGO",
             "paletteIds": [
-                ""
+                "default-bg-2"
             ],
             "spritePaletteIds": [],
             "collisions": [],
@@ -16164,8 +16164,8 @@
         "showConnections": true,
         "showCollisionSlopeTiles": false,
         "showCollisionExtraTiles": false,
-        "worldScrollX": 13,
-        "worldScrollY": 0,
+        "worldScrollX": 0,
+        "worldScrollY": 64,
         "zoom": 150,
         "customColorsEnabled": true,
         "sgbEnabled": false,

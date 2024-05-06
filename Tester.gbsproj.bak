@@ -1434,7 +1434,7 @@
                     "hit3Script": [],
                     "id": "fd482639-46e7-4891-9dd9-a4c041b23cb3",
                     "x": 18,
-                    "y": 15
+                    "y": 14
                 },
                 {
                     "name": "",
@@ -1782,7 +1782,7 @@
             "height": 18,
             "type": "POINTNCLICK",
             "paletteIds": [
-                "default-bg-5"
+                "dmg"
             ],
             "spritePaletteIds": [
                 "default-bg-5"
@@ -16049,7 +16049,7 @@
             "symbol": "sound_staggie_wav",
             "filename": "Staggie.wav",
             "type": "wav",
-            "inode": "844424931370225",
+            "inode": "562949953458745",
             "_v": 1714420874292
         }
     ],
@@ -16164,7 +16164,7 @@
         "showConnections": true,
         "showCollisionSlopeTiles": false,
         "showCollisionExtraTiles": false,
-        "worldScrollX": 20,
+        "worldScrollX": 37,
         "worldScrollY": 0,
         "zoom": 150,
         "customColorsEnabled": true,
@@ -16194,9 +16194,9 @@
         "defaultUIPaletteId": "default-ui",
         "playerPaletteId": "",
         "navigatorSplitSizes": [
-            209,
-            181,
-            576
+            205,
+            177,
+            566
         ],
         "showNavigator": true,
         "defaultFontId": "8ed435d9-51cb-44e7-8b0d-ca85e63ca427",

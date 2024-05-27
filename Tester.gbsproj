@@ -490,8 +490,8 @@
             "autoFadeSpeed": null,
             "id": "631d33c7-9492-49b3-a9a9-d152121cfb51",
             "symbol": "scene_8",
-            "x": 1821,
-            "y": 493.9999999999996,
+            "x": 1833.5714285714287,
+            "y": 487.7142857142853,
             "actors": [
                 {
                     "name": "",
@@ -1019,7 +1019,8 @@
                             "give me John and you\ncan have this guitar!",
                             "its a 1970 gibson\nbanger of a guitar",
                             "Im sure someone will\ntrade you for a",
-                            "mango loco no\nproblem"
+                            "mango loco no\nproblem",
+                            "It was Joe's but\nhe won't miss it"
                         ],
                         "nameTag": "Alex",
                         "nameX": 2,
@@ -1196,10 +1197,199 @@
                 {
                     "command": "EVENT_WAIT",
                     "args": {
-                        "time": 3,
+                        "time": 0.1,
                         "frames": 30
                     },
                     "id": "566bf731-23d1-4c01-8949-40309107cb11"
+                },
+                {
+                    "command": "EVENT_DIALOGUE_NAME_LARGE_AVATAR",
+                    "args": {
+                        "__scriptTabs": "text",
+                        "text": [
+                            "STAGGIEZ!",
+                            "MATE!",
+                            "WOT DO YOU THINK\nOF THE GARDEN?"
+                        ],
+                        "nameTag": "JOE",
+                        "nameX": 2,
+                        "avatarType": "small",
+                        "avatarId": "",
+                        "largeAvatar": "",
+                        "avatarX": 2,
+                        "avatarY": 2,
+                        "avatarWidth": 3,
+                        "orientation": "left"
+                    },
+                    "id": "27bfe580-77d3-4c5b-ab56-29812748a3a2"
+                },
+                {
+                    "command": "EVENT_DIALOGUE_NAME_LARGE_AVATAR",
+                    "args": {
+                        "__scriptTabs": "text",
+                        "text": [
+                            "Yeah mate looks\ngreat, anyway---"
+                        ],
+                        "nameTag": "Staggiez",
+                        "nameX": 2,
+                        "avatarType": "small",
+                        "avatarId": "64d1e78c-13c0-477f-b038-12bfc8490492",
+                        "largeAvatar": "",
+                        "avatarX": 2,
+                        "avatarY": 2,
+                        "avatarWidth": 3,
+                        "orientation": "left"
+                    },
+                    "id": "d5560b16-3c95-4a17-a4a1-2b4307eb2d05"
+                },
+                {
+                    "command": "EVENT_DIALOGUE_NAME_LARGE_AVATAR",
+                    "args": {
+                        "__scriptTabs": "text",
+                        "text": [
+                            "BLOODY BETTER BE\nGREAT THEY QUOTED",
+                            "ME £8000 FOR ALL\nTHIS. PISS TAKE",
+                            "DO IT ME SELF WITH\nBUCKET AND SPADE",
+                            "SCAMMERS AND COWBOYS\nIM TELLING YA"
+                        ],
+                        "nameTag": "JOE",
+                        "nameX": 2,
+                        "avatarType": "small",
+                        "avatarId": "",
+                        "largeAvatar": "",
+                        "avatarX": 2,
+                        "avatarY": 2,
+                        "avatarWidth": 3,
+                        "orientation": "left"
+                    },
+                    "id": "98acfcf7-0337-47de-917e-1d0871a011ae"
+                },
+                {
+                    "command": "EVENT_DIALOGUE_NAME_LARGE_AVATAR",
+                    "args": {
+                        "__scriptTabs": "text",
+                        "text": [
+                            "Yeah Yeah I'm sure \nmate. Anyways I'm\nafter a---"
+                        ],
+                        "nameTag": "Staggiez",
+                        "nameX": 2,
+                        "avatarType": "small",
+                        "avatarId": "64d1e78c-13c0-477f-b038-12bfc8490492",
+                        "largeAvatar": "",
+                        "avatarX": 2,
+                        "avatarY": 2,
+                        "avatarWidth": 3,
+                        "orientation": "left"
+                    },
+                    "id": "f0144b3e-fbf5-4be5-be59-04bacb673857"
+                },
+                {
+                    "command": "EVENT_DIALOGUE_NAME_LARGE_AVATAR",
+                    "args": {
+                        "__scriptTabs": "text",
+                        "text": [
+                            "MATE MATE MATE\nDIDN'T ASK...",
+                            "HERE HAVE YOU SEEN\nALEX?",
+                            "I LET HIM HAVE ONE \nOF MY GIBSONS"
+                        ],
+                        "nameTag": "JOE",
+                        "nameX": 2,
+                        "avatarType": "small",
+                        "avatarId": "",
+                        "largeAvatar": "",
+                        "avatarX": 2,
+                        "avatarY": 2,
+                        "avatarWidth": 3,
+                        "orientation": "left"
+                    },
+                    "id": "73d4dc8a-768e-44b2-be1f-da711da9adbc"
+                },
+                {
+                    "command": "EVENT_DIALOGUE_NAME_LARGE_AVATAR",
+                    "args": {
+                        "__scriptTabs": "text",
+                        "text": [
+                            "Funny you mention\nthat, he gave me this"
+                        ],
+                        "nameTag": "Staggiez",
+                        "nameX": 2,
+                        "avatarType": "small",
+                        "avatarId": "64d1e78c-13c0-477f-b038-12bfc8490492",
+                        "largeAvatar": "",
+                        "avatarX": 2,
+                        "avatarY": 2,
+                        "avatarWidth": 3,
+                        "orientation": "left"
+                    },
+                    "id": "a90373f6-7e00-405f-a2e4-8807a1f10756"
+                },
+                {
+                    "command": "EVENT_DIALOGUE_NAME_LARGE_AVATAR",
+                    "args": {
+                        "__scriptTabs": "text",
+                        "text": [
+                            "WHAT",
+                            "THE",
+                            "FUCK",
+                            "WHATS HE DONE TO\nTHIS?!?",
+                            "I AM GOING TO",
+                            "RING HIS FUCKEN\nNECK!!!",
+                            "ALLS HE EVER DOES\nIS BREAK MY SHIT",
+                            "FIRST THE CHAIR\nNOW THIS!",
+                            "GONNA HAVE TO\nSPEND ALL NIGHT",
+                            "FIXING THIS SHITE"
+                        ],
+                        "nameTag": "JOE",
+                        "nameX": 2,
+                        "avatarType": "small",
+                        "avatarId": "",
+                        "largeAvatar": "",
+                        "avatarX": 2,
+                        "avatarY": 2,
+                        "avatarWidth": 3,
+                        "orientation": "left"
+                    },
+                    "id": "ac0d45ce-e854-4f0f-ad15-a0e0d6bb9cc7"
+                },
+                {
+                    "command": "EVENT_DIALOGUE_NAME_LARGE_AVATAR",
+                    "args": {
+                        "__scriptTabs": "text",
+                        "text": [
+                            "Sorry mate---"
+                        ],
+                        "nameTag": "Staggiez",
+                        "nameX": 2,
+                        "avatarType": "small",
+                        "avatarId": "64d1e78c-13c0-477f-b038-12bfc8490492",
+                        "largeAvatar": "",
+                        "avatarX": 2,
+                        "avatarY": 2,
+                        "avatarWidth": 3,
+                        "orientation": "left"
+                    },
+                    "id": "61d4a741-fb3b-4f1a-b89d-dfb63f62444c"
+                },
+                {
+                    "command": "EVENT_DIALOGUE_NAME_LARGE_AVATAR",
+                    "args": {
+                        "__scriptTabs": "text",
+                        "text": [
+                            "IF YOU SEE THAT\nCUNT TELL HIM HES\nDEAD TO ME",
+                            "HERE TAKE THIS\nSPARE ASTROTURF\nAND WALK AWAY",
+                            "I NEED SOME\nALONE TIME..."
+                        ],
+                        "nameTag": "JOE",
+                        "nameX": 2,
+                        "avatarType": "small",
+                        "avatarId": "",
+                        "largeAvatar": "",
+                        "avatarX": 2,
+                        "avatarY": 2,
+                        "avatarWidth": 3,
+                        "orientation": "left"
+                    },
+                    "id": "d24521f5-df86-43e7-a2a8-5d18dca04bcd"
                 },
                 {
                     "command": "EVENT_SET_FLAGS",
@@ -1220,7 +1410,8 @@
                         "flag13": false,
                         "flag14": false,
                         "flag15": false,
-                        "flag16": false
+                        "flag16": false,
+                        "__collapse": false
                     },
                     "id": "f8e163b5-4d03-41af-8c8d-303b8507b004"
                 },
@@ -9350,7 +9541,7 @@
             "id": "c544b5e7-6a02-4568-b88a-3dc2adfd16d6",
             "symbol": "scene_16",
             "x": 61.904761904761905,
-            "y": 892.2380952380952,
+            "y": 888.2380952380952,
             "actors": [
                 {
                     "name": "",
@@ -35955,8 +36146,8 @@
             "autoFadeSpeed": null,
             "id": "aa229692-03b8-4d5f-ac01-2126d2ba47e8",
             "symbol": "scene_28",
-            "x": 1648.7999999999997,
-            "y": 1542.1333333333334,
+            "x": 1646.1333333333328,
+            "y": 1519.0222222222224,
             "actors": [
                 {
                     "name": "",
@@ -46324,7 +46515,7 @@
                         {
                             "command": "EVENT_DIALOGUE_NAME_LARGE_AVATAR",
                             "args": {
-                                "__scriptTabs": "text",
+                                "__scriptTabs": "nameTag",
                                 "text": [
                                     "Ay Duck wait your\nbloody turn",
                                     "....",
@@ -47701,7 +47892,15 @@
                     "leaveScript": []
                 }
             ],
-            "script": [],
+            "script": [
+                {
+                    "command": "EVENT_MUSIC_PLAY",
+                    "args": {
+                        "musicId": "e0b209bb-0e49-4a01-b2b5-9ef09051df59"
+                    },
+                    "id": "38a24fd7-2014-4fad-82a6-8e764fe3ca59"
+                }
+            ],
             "playerHit1Script": [],
             "playerHit2Script": [],
             "playerHit3Script": [],
@@ -51282,7 +51481,7 @@
                                         "args": {
                                             "actorId": "$self$",
                                             "spriteStateId": "Dead",
-                                            "__collapse": true
+                                            "__collapse": false
                                         },
                                         "id": "e2f525e1-ffd1-4cb2-b5b1-7109b2d1ba08"
                                     },
@@ -51295,7 +51494,8 @@
                                             "frequency": 200,
                                             "duration": 0.5,
                                             "wait": true,
-                                            "effect": 0
+                                            "effect": 0,
+                                            "__collapse": true
                                         },
                                         "id": "03d77750-99d9-4a93-84ab-d10543c98a65"
                                     },
@@ -51304,7 +51504,7 @@
                                         "args": {
                                             "time": 0.5,
                                             "frames": 30,
-                                            "__collapse": true
+                                            "__collapse": false
                                         },
                                         "id": "e3eb9ed0-cf0d-429d-91f0-3e0d541c36b2"
                                     },
@@ -51312,7 +51512,7 @@
                                         "command": "EVENT_ACTOR_DEACTIVATE",
                                         "args": {
                                             "actorId": "$self$",
-                                            "__collapse": true
+                                            "__collapse": false
                                         },
                                         "id": "6048f922-ef0f-4039-9d05-82a2750b71a8"
                                     }
@@ -52686,7 +52886,8 @@
                                     {
                                         "command": "EVENT_ACTOR_STOP_UPDATE",
                                         "args": {
-                                            "actorId": "$self$"
+                                            "actorId": "$self$",
+                                            "__collapse": true
                                         },
                                         "id": "f289da78-b9cf-4fa0-a4f2-db467699f153"
                                     },
@@ -52733,7 +52934,8 @@
                                             "frequency": 200,
                                             "duration": 0.5,
                                             "wait": true,
-                                            "effect": 0
+                                            "effect": 0,
+                                            "__collapse": true
                                         },
                                         "id": "e871d95c-765a-433f-b484-b79c425ac321"
                                     },
@@ -53234,7 +53436,7 @@
                     "args": {
                         "actorId": "player",
                         "speed": 4,
-                        "__collapse": false
+                        "__collapse": true
                     },
                     "id": "89a69ea5-7f88-40f7-9bef-4a63e1e47c4b"
                 },
@@ -53245,7 +53447,8 @@
                         "x": -6,
                         "y": 0,
                         "moveType": "diagonal",
-                        "useCollisions": true
+                        "useCollisions": true,
+                        "__collapse": true
                     },
                     "id": "78d01a1a-1762-4430-a996-d6252f4fe8cc"
                 },
@@ -53253,7 +53456,8 @@
                     "command": "EVENT_WAIT",
                     "args": {
                         "time": 2,
-                        "frames": 30
+                        "frames": 30,
+                        "__collapse": true
                     },
                     "id": "64700b05-3197-4f40-ab86-64f2e753a98f"
                 },
@@ -53262,7 +53466,7 @@
                     "args": {
                         "state": "0",
                         "field": "que_state",
-                        "__collapse": false
+                        "__collapse": true
                     },
                     "id": "479acb7a-6997-4cb0-b6bc-15476e0a9b53"
                 },
@@ -53271,7 +53475,7 @@
                     "args": {
                         "actorId": "player",
                         "speed": 1,
-                        "__collapse": false
+                        "__collapse": true
                     },
                     "id": "67b7da66-c4a2-41dd-98b9-4fbbd3cc9c95"
                 },
@@ -53279,7 +53483,8 @@
                     "command": "EVENT_ACTOR_SET_STATE",
                     "args": {
                         "actorId": "player",
-                        "spriteStateId": ""
+                        "spriteStateId": "",
+                        "__collapse": true
                     },
                     "id": "ec2bdc77-89fc-4f00-b27b-c00bf4a9ee96"
                 }
@@ -53671,8 +53876,8 @@
             "autoFadeSpeed": 3,
             "id": "2ed8712d-7dd6-490f-afa9-e1af1a7e59ba",
             "symbol": "scene_11",
-            "x": 1059.8222222222216,
-            "y": 163.50303030303007,
+            "x": 1066.1079365079358,
+            "y": 157.78874458874435,
             "actors": [
                 {
                     "name": "",
@@ -54125,6 +54330,13 @@
                         "actorId": "player"
                     },
                     "id": "247f74f3-5de7-4ed2-9791-a26c0415efa0"
+                },
+                {
+                    "command": "EVENT_MUSIC_PLAY",
+                    "args": {
+                        "musicId": "7a6c3a43-9251-4d58-826c-2e92ad241680"
+                    },
+                    "id": "a884305e-8808-4fc6-8ca3-81652a9ad1e2"
                 },
                 {
                     "command": "EVENT_WAIT",
@@ -64613,6 +64825,29 @@
                     "id": "996769fe-9d9e-4679-a5b3-1d211d7e5c94",
                     "x": 18,
                     "y": 17
+                },
+                {
+                    "name": "",
+                    "frame": 0,
+                    "animate": false,
+                    "spriteSheetId": "6f01a1c9-d9bf-4fe0-8be6-38d128434540",
+                    "direction": "right",
+                    "moveSpeed": 1,
+                    "animSpeed": 255,
+                    "paletteId": "",
+                    "isPinned": false,
+                    "persistent": false,
+                    "collisionGroup": "",
+                    "symbol": "actor_164",
+                    "script": [],
+                    "startScript": [],
+                    "updateScript": [],
+                    "hit1Script": [],
+                    "hit2Script": [],
+                    "hit3Script": [],
+                    "id": "1d179102-480f-45ac-849f-736cc98f33b5",
+                    "x": 0,
+                    "y": 7
                 }
             ],
             "triggers": [
@@ -64808,7 +65043,7 @@
                                 "args": {
                                     "text": [
                                         "You traded your \nBroken guitar \nfor Astro Turf!",
-                                        "No closer to Mango \nLoco but grass \nis cool. I guess..."
+                                        "RIP Alex but thats\nnot your problem"
                                     ],
                                     "avatarId": ""
                                 },
@@ -116902,8 +117137,8 @@
         "showConnections": true,
         "showCollisionSlopeTiles": true,
         "showCollisionExtraTiles": false,
-        "worldScrollX": 853,
-        "worldScrollY": 295,
+        "worldScrollX": 963,
+        "worldScrollY": 287,
         "zoom": 75,
         "customColorsEnabled": true,
         "sgbEnabled": false,
